@@ -1,2 +1,2 @@
 # C-programming-projects
-# This is for file encryption and decryption program
+# This repository comprises a compilation of C programming projects.
